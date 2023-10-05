@@ -38,6 +38,7 @@
 
 <a href="https://github.com/iuricode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical" />
 </a>
 
@@ -45,4 +46,4 @@
 
 ![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f%C3%A1bio-dobeck-886532156/)
 ![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiodobeck@gmail.com)
-![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/fabiodobeck)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/fabiodobeck)
