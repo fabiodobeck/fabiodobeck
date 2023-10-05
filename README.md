@@ -40,7 +40,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark" />
   <br/>
   <br/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical" />
 </a>
 
