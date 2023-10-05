@@ -6,7 +6,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://inscricoes.unicesumar.edu.br/curso/analise-e-desenvolvimento-de-sistemas/?utm_content=&utm_term=unicesumar&utm_campaign=U-EAD-GG-ONG-CAP-GRA-CONV-PADR-BRAN-SS-PESQ-CPC&utm_source=adwords&utm_medium=cpc&hsa_acc=7334726990&hsa_cam=10024765118&hsa_grp=103896843271&hsa_ad=443406612207&hsa_src=g&hsa_tgt=kwd-330095647106&hsa_kw=unicesumar&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwvfmoBhAwEiwAG2tqzEhCQn5kgP84D5bCKHT6slonU0c6oKP7SZ_V8j-BHZkLKi3gUu4oIhoCfdwQAvD_BwE">UNICESUMAR</a>.
 - 🤓 Aprendendo e colocando em prática **Back-End** na <a href="https://cubos.academy/?utm_term=cubos%20academy&utm_campaign=Conversion+-+Search+-+Branding+-+Cubos+Academy&utm_source=google&utm_medium=cpc&hsa_acc=6320525513&hsa_cam=18154121427&hsa_grp=148407490285&hsa_ad=661163714361&hsa_src=g&hsa_tgt=kwd-1268638036456&hsa_kw=cubos%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwvfmoBhAwEiwAG2tqzAnrNS7flD5lveDsnUW9GGmTxuECGwJv_gDzSy-ye0fWtHMtCeFqUhoCaYAQAvD_BwE">CUBOS academy</a>.
 - 💼 Trabalhando como **Suporte** na <a href="https://jacksonroger.com/matriculas/">Jackson Roger Idiomas</a>
-- 🌱 Aprendendo mais sobre **JavaScript, Node.js, **.
+- 🌱 Aprendendo mais sobre **Desenvolvimento Full-Stack**.
 
 <h3>Minhas Skills</h3>
 
