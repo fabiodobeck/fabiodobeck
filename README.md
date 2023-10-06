@@ -45,6 +45,6 @@
 
 <h3>Onde me encontrar</h3>
 
-![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f%C3%A1bio-dobeck-886532156/)
-![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiodobeck@gmail.com)
+![Linkedin](https://img.shields.io/badge/-fabiodobeck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f%C3%A1bio-dobeck-886532156/)
+![Gmail Badge](https://img.shields.io/badge/-fabiodobeck@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiodobeck@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/fabiodobeck)
