@@ -36,7 +36,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode">
+<a href="https://github.com/fabiodobeck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiodobeck&theme=dark" />
   <br/>
   <br/>
